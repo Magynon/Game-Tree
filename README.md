@@ -22,7 +22,7 @@ In designing the game tree I used an array of pointers to each node's children. 
 - **TorF** goes through tree and assigns T or F to each node, judging by its children
 - **printTorF** writes to output file
 
-### Exercise 3:
+### Exercise no. 3:
 
 - **freeTreeMin** frees allocated memory
 - **parse** parses the input text
