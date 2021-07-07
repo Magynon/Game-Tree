@@ -1,6 +1,6 @@
-# Stefan MAGIRESCU
+# Ștefan MĂGIRESCU
 
-## SD - tema 2 - GameTree
+## GameTree
 
 In designing the game tree I used an array of pointers to each node's children. Generally, I designed new functions for each of the exercises, but I occasionaly borrowed functions from the other exercises.
 
